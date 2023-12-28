@@ -1,16 +1,25 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzkyNGQ3ZDhrbnprY3hrMXF5YTFteGp2NG9tYjN2c203aHVxeHgwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZqOGQO6ZMSqUYDHj0T/giphy.gif" width="100"/>
+</div>
 
-<!--
-**NikitaZhukovsky/NikitaZhukovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGR6ODJoY2ptb2t3aGZkdWJ4b2g2djdzYzY1dnV6dWNib2YyejZwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="600" height="300"/>
+</div>
 
-Here are some ideas to get you started:
+### :man_technologist: About Me :
+I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
+- :telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :seedling: Exploring Technical Content Writing.
+
+### :hammer_and_wrench: Languages and Tools :
+
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaZhukovsky&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
