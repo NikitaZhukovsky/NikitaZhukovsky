@@ -11,7 +11,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
-<a href="www.linkedin.com/in/nikita-zhukovsky-60a2b22b1" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="d_lebedzeu" height="30" width="40" /></a
+<a href="https://www.linkedin.com/in/nikita-zhukovsky-60a2b22b1/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="d_lebedzeu" height="30" width="40" /></a
 </p>  
 
  :hammer_and_wrench: Languages and Tools :
